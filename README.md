@@ -1,4 +1,10 @@
 <h1>Mekvahan assignment</h1>
+<p>In order to run this project..download the repository</p>
+<p>Do npm install in same directory</p>
+<p>Run node api.js for backend server</p>
+<p>And run npm start in other terminal</p>
+<p>It will open in new tab at http://localhost:3000</p>
+<br><br>
 <p align="center">
   <p>Login page</p>
   <img src="login.JPG" width="950" height = "450 title="hover text">
